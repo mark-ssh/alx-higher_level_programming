@@ -1,6 +1,6 @@
-#!/usr/bin/pythn3
+#!/usr/bin/python3
 def no_c(my_string):
-    main_str = ''
+    main_str = ""
     for num in my_string:
         if num != 'c' and num != 'C':
             main_str += num
